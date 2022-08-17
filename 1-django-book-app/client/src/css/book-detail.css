@@ -1,0 +1,13 @@
+.btn-readmore {
+  background-color: transparent;
+  border: none;
+  font-weight: bold;
+  color: rgb(185, 0, 0);
+}
+
+.btn-showless {
+  background-color: transparent;
+  border: none;
+  font-weight: bold;
+  color: rgb(7, 125, 194);
+}
