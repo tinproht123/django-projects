@@ -15,3 +15,9 @@ There's still a lott of things I need to learn, these projects is simple, but st
 - Python/Django
 - JWT
 - MySql
+
+
+## 2- Todo App
+
+### Clientt and Server:
+- All using html and Django, just for demo
